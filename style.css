@@ -1,0 +1,135 @@
+*{
+    margin: 0px;
+    font-family: 'Inter', sans-serif;
+}
+
+#logo{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+#título-menusuperior{
+    margin-left: 150px;
+    margin-top: 50px;
+
+}
+
+#texto-menusuperior{
+    margin-left: 150px;
+    margin-top: 35px;
+    padding-bottom: 100px;
+}
+
+#menusuperior{
+    background-image: url(imagens/fundo\ capa\ 1.svg);
+    color: white;
+}
+
+#menuinformacional{
+    background-color: #EAECE5;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+.icone{
+    margin: 50px 0px 50px 100px;
+    padding: 25px;
+}
+
+#secaovideo{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+
+}
+
+.textoinformativo{
+    display: flex;
+    align-items: center;
+}
+
+#títulovideo{
+    color: #247ba0;
+    margin-top: 50px;
+}
+
+#video{
+    margin: 50px 25px 50px 100px;
+}
+#carrosel{
+    background-color: #247ba0;
+    padding: 50px;
+}
+#títulocarrosel{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+#div-cards{
+    display: grid;
+    grid-auto-flow: column;
+}
+.card{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+#seta-esquerda{
+    display: flex;
+}
+#seta-direita{
+    display: flex;
+}
+#bruna{
+    display: none;
+}
+.seta{
+    margin-top: 55%;
+    cursor: pointer;
+}
+
+.seta:hover{
+    transform: translateY(-7px);
+    transition: 2ms;
+}
+
+#formulario{
+    background-color: white;
+    text-align: center;
+}
+
+#titulo-formulario{
+    font-size: 25px;
+    margin: 25px;
+    color: #383838;
+}
+
+input{
+    width: 300px;
+    height: 40px;
+    background-color: #EAECE5;
+    margin: 15px;
+    border: 0px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+button{
+    background-color: #247ba0;
+    height: 40px;
+    width: 250px;
+    border: 0px;
+    border-radius: 5px;
+    color: #EAECE5;
+    margin-bottom: 50px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #318fb8;
+    color: white;
+    transform: translateY(-7px);
+    box-shadow: 0px 15px 20px #2b7392;
+    transition-duration: 0,5s;
+}
