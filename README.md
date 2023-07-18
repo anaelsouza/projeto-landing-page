@@ -1,5 +1,6 @@
 # projeto-landing-page
-Projeto do módulo base do Curso de Tecnologia Escola DNC
+Projeto do módulo base do Curso de Tecnologia Escola DNC!!
+Registro de informações feito pelo SheetMonkey para exportação em planilha, após isso usado Repositório Git e o Upload do site diretamente pela Netlify.
 
 Link da Landing Page: https://primeiro-projeto-landing-page.netlify.app/
 
