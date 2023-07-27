@@ -1,7 +1,7 @@
 # projeto-landing-page
-Projeto do módulo base do Curso de Tecnologia Escola DNC!!
-Registro de informações feito pelo SheetMonkey para exportação em planilha, após isso usado Repositório Git e o Upload do site diretamente pela Netlify.
+Project of the base module of the DNC School Technology Course!!
+Registration of information made by SheetMonkey for export in a spreadsheet, after that using the Git Repository and the Upload of the site directly by Netlify.
 
-Link da Landing Page: https://primeiro-projeto-landing-page.netlify.app/
+Landing Page Link: https://primeiro-projeto-landing-page.netlify.app/
 
-Link da Planilha de Registro de Informações: https://docs.google.com/spreadsheets/d/1q56X8jeUaeLL1C4zu__NECP1nvAXKNoD6-lKPoMPzNk/edit#gid=0
+Information Recording Worksheet Link: https://docs.google.com/spreadsheets/d/1q56X8jeUaeLL1C4zu__NECP1nvAXKNoD6-lKPoMPzNk/edit#gid=0
